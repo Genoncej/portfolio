@@ -29,7 +29,7 @@ export default {
 <template>
     <!-- partie présentation -->
     <div class="mt-10 mb-16 mx-4 lg:mt-24 lg:flex lg:justify-center text-white">
-        <div class="w-[2%] ml-[25%] mb-4 md:w-[50%] md:mr-10 lg:ml-0 lg:w-[25%]">
+        <div class="w-[50%] ml-[25%] mb-4 md:w-[50%] md:mr-10 lg:ml-0 lg:w-[25%]">
             <img src="../assets/img/img_profile.JPG" alt="image profil" class="h-full rounded-lg">
         </div>
         <div class="flex flex-col w-[80%] ml-[10%] text-justify items-center lg:items-start md:w-[70%] md:ml-[15%] lg:ml-0 lg:w-[45%]">
