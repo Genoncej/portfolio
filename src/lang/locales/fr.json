@@ -1,0 +1,67 @@
+{
+  "locale": {
+    "fr": "Français",
+    "en": "Anglais"
+  },
+  "nav": {
+    "home": "Accueil",
+    "profil": "Profil",
+    "experience": "Expériences"
+  },
+  "home": {
+    "header": "Bonjour, je m'appelle",
+    "name": "Janelle GENONCEAU",
+    "created_by": "JG - 2024"
+  },
+  "profile": {
+    "header": "Qui suis-je ?",
+    "desc_first": "Bonjour, je m'appelle Janelle et l'Informatique est devenu une de mes passions parmi la faune/flore, la photographie et les jeux vidéo. En effet, comprendre la manière de faire, de créer m'attire énormément que ce soit dans l'informatique ou dans les jeux vidéo. Non seulement intéressée par l'informatique, mais aussi par la photographie de la faune et flore, cela me détend et j'aime chercher les différents angles possibles pour les sujets de mes photos.",
+    "desc_second": "De plus, étant étudiante en informatique, j'ai pu développer mes compétences dans ce domaine. Une ouverture d'esprit et soif d'acquérir des connaissances et des expériences me poussent à aller toujours plus loin dans les projets que j'entreprends.",
+    "cv_download": "Télécharger mon CV",
+    "cv_path":"./src/assets/CV/CV_Francais.pdf",
+    "header_skill": "Compétences",
+    "header_misc": "Intérêts",
+    "miscellaneous": "photographie, animaux, jeux vidéo, etc"
+  },
+  "exp_first":{
+    "header": "Expériences",
+    "exp_title": "Application de gestion de documents",
+    "exp_desc": "Création d'une application pour faciliter le travail du service technique de l'entreprise. Il y a une gestion des documents soit Création, Modification et Suppression mais aussi une génération et visualisation des documents.",
+    "exp_img": "./src/assets/entis/logo_entis.jpg",
+    "exp_technos":"WPF, C#, XML"
+  },
+  "exp_second":{
+    "exp_title": "Site web Tesla",
+    "exp_desc": "Création d'un site web fictif, gestion en groupe de 5 de l'entiereté du processus de développement. (analyser les besoins, créer la bdd, etc.)",
+    "exp_img": "./src/assets/tesla/logo_tesla.svg",
+    "exp_technos":"VueJs, C#, SQL, HTML/CSS, Entity Framework, PostgreSQL, Github"
+  },
+  "exp_third":{
+    "exp_title": "Jeu vidéo 2D",
+    "exp_desc": "Création et développement d'un jeu vidéo en 2D en groupe de 3.",
+    "exp_img": "./src/assets/monogame/game_title.png",
+    "exp_technos":"C#, Monogame, Github"
+  },
+  "school_first": {
+    "header": "Formation",
+    "school_title": "Bachelor Universitaire de Technologie en Informatique",
+    "school_city": "IUT Annecy — Annecy-Le-Vieux",
+    "school_img": "./src/assets/img/logo_IUT_Annecy.png",
+    "school_date": "2021-2024"
+  },
+  "school_second": {
+    "school_title": "Baccalauréat Général",
+    "school_city": "Lycée International Ferney-Voltaire — Saint-Genis",
+    "school_img": "./src/assets/img/logo_lycee_Ferney.svg",
+    "school_date": "2021"
+  },
+  "skill_header": {
+    "web": "Web",
+    "app": "Application",
+    "logi": "Logiciels",
+    "collab": "Collaboration"
+  },
+  "contact":{
+    "header": "Contactez moi"
+  }
+}

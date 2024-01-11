@@ -1,0 +1,67 @@
+{
+  "locale": {
+    "fr": "French",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "profil": "Profile",
+    "experience": "Experiences"
+  },
+  "home": {
+    "header": "Hello, I'm",
+    "name": "Janelle GENONCEAU",
+    "created_by": "JG - 2024"
+  },
+  "profile": {
+    "header": "Who am i ?",
+    "desc_first": "Hello, I'm Janelle and the IT became on of my many interest, like video games, photography and wildlife. Actually, understanding the process of creation appeals me tremendously be it in the IT or video games. Not only I'm interested in IT but also in wildlife's photography, it helps me feel better and I like to search new angles for my pictures.",
+    "desc_second":"Furthermore, I am an IT student and I have developed my skills in that sector. Being open-minded and willing to have more awareness and experiences make me want to go one step further in all the projects I am taking on.",
+    "cv_download": "Download my CV",
+    "cv_path":"./src/assets/CV/CV_Annecy_International.pdf",
+    "header_skill": "Technical Skills",
+    "header_misc": "Miscellaneous",
+    "miscellaneous": "photo, animals, video games, etc"
+  },
+  "exp_first":{
+    "header": "Experiences",
+    "exp_title": "Management application",
+    "exp_desc": "Creating an application to ease the work of the company's technical department. It follows the CRUD method which is Create, Read, Update and Delete, there is also the possibility to generate a document.",
+    "exp_img": "./src/assets/entis/logo_entis.jpg",
+    "exp_technos":"WPF, C#, XML"
+  },
+  "exp_second":{
+    "exp_title": "Tesla WebSite",
+    "exp_desc": "Creating a functional and fictional website, managing the entirety of the process in groups of 5. (analysing the needs,  creating the database, linking the database to the website)",
+    "exp_img": "./src/assets/tesla/logo_tesla.svg",
+    "exp_technos":"VueJs, C#, SQL, HTML/CSS, Entity Framework, PostgreSQL, Github"
+  },
+  "exp_third":{
+    "exp_title": "2D Video game",
+    "exp_desc": "Creating and developing a 2D video game in groups of 3.",
+    "exp_img": "./src/assets/monogame/game_title.png",
+    "exp_technos":"C#, Monogame, Github"
+  },
+  "school_first": {
+    "header": "Formation",
+    "school_title": "BUT Informatique (Bachelor's Degree of Technology in computer science)",
+    "school_city": "IUT Annecy — Annecy-Le-Vieux",
+    "school_img": "./src/assets/img/logo_IUT_Annecy.png",
+    "school_date": "2021-2024"
+  },
+  "school_second": {
+    "school_title": "French Baccalaureate (High School diploma specialized in mathematics, digital and computer science)",
+    "school_city": "Lycée International Ferney-Voltaire — Saint-Genis",
+    "school_img": "./src/assets/img/logo_lycee_Ferney.svg",
+    "school_date": "2021"
+  },
+  "skill_header": {
+    "web": "Web",
+    "app": "Application",
+    "logi": "Softwares",
+    "collab": "Collaboration"
+  },
+  "contact":{
+    "header": "Contact me"
+  }
+}

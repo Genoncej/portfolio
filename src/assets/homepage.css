@@ -1,0 +1,9 @@
+#name{
+    background-image: url('../assets/background/mont_blanc.jpeg');
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    pointer-events: none;
+}
